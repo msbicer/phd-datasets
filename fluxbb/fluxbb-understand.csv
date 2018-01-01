@@ -1,0 +1,510 @@
+Kind,Name,AvgCyclomatic,AvgCyclomaticModified,AvgCyclomaticStrict,AvgEssential,AvgLine,AvgLineBlank,AvgLineCode,AvgLineComment,CountDeclClass,CountDeclFile,CountDeclFunction,CountLine,CountLine_Html,CountLine_Javascript,CountLine_Php,CountLineBlank,CountLineBlank_Html,CountLineBlank_Javascript,CountLineBlank_Php,CountLineCode,CountLineCode_Javascript,CountLineCode_Php,CountLineComment,CountLineComment_Html,CountLineComment_Javascript,CountLineComment_Php,CountPath,CountStmt,CountStmtDecl,CountStmtDecl_Javascript,CountStmtDecl_Php,CountStmtExe,CountStmtExe_Javascript,CountStmtExe_Php,Cyclomatic,CyclomaticModified,CyclomaticStrict,Essential,MaxCyclomatic,MaxCyclomaticModified,MaxNesting,RatioCommentToCode,SumCyclomatic,SumCyclomaticModified,SumCyclomaticStrict,SumEssential
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_bans.php",0,0,0,0,0,0,0,0,0,,0,569,0,0,569,84,0,0,84,462,0,462,25,0,0,25,62636,258,0,0,0,258,0,258,79,79,101,1,79,79,7,0.05,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_categories.php",0,0,0,0,0,0,0,0,0,,0,266,0,0,266,51,0,0,51,199,0,199,19,0,0,19,1764,102,0,0,0,102,0,102,22,22,24,1,22,22,5,0.10,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_censoring.php",0,0,0,0,0,0,0,0,0,,0,168,0,0,168,37,0,0,37,118,0,118,13,0,0,13,66,60,0,0,0,60,0,60,13,13,13,1,13,13,4,0.11,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_forums.php",0,0,0,0,0,0,0,0,0,,0,478,0,0,478,84,0,0,84,366,0,366,31,0,0,31,882030,224,0,0,0,224,0,224,67,67,88,1,67,67,10,0.08,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_groups.php",0,0,0,0,0,0,0,0,0,,0,632,0,0,632,77,0,0,77,532,0,532,25,0,0,25,999999999,355,0,0,0,355,0,355,114,114,147,1,114,114,7,0.05,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_index.php",0,0,0,0,0,0,0,0,0,,0,91,0,0,91,15,0,0,15,68,0,68,8,0,0,8,18,41,0,0,0,41,0,41,7,7,7,1,7,7,2,0.12,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_loader.php",0,0,0,0,0,0,0,0,0,,0,55,0,0,55,13,0,0,13,28,0,28,14,0,0,14,64,23,0,0,0,23,0,23,10,10,11,1,10,10,1,0.50,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_maintenance.php",0,0,0,0,0,0,0,0,0,,0,359,0,0,359,66,0,0,66,275,0,275,19,0,0,19,327152,141,0,0,0,141,0,141,32,29,33,8,32,29,4,0.07,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_options.php",0,0,0,0,0,0,0,0,0,,0,875,0,0,875,53,0,0,53,809,0,809,13,0,0,13,999999999,572,0,0,0,572,0,572,178,178,183,1,178,178,4,0.02,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_permissions.php",0,0,0,0,0,0,0,0,0,,0,191,0,0,191,17,0,0,17,164,0,164,10,0,0,10,23068672,116,0,0,0,116,0,116,27,27,28,1,27,27,3,0.06,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_reports.php",0,0,0,0,0,0,0,0,0,,0,184,0,0,184,32,0,0,32,143,0,143,9,0,0,9,90,62,0,0,0,62,0,62,19,19,19,1,19,19,2,0.06,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_statistics.php",0,0,0,0,0,0,0,0,0,,0,139,0,0,139,27,0,0,27,97,0,97,15,0,0,15,1512,66,0,0,0,66,0,66,19,19,26,1,19,19,6,0.15,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/admin_users.php",0,0,0,0,0,0,0,0,0,,0,1095,0,0,1095,165,0,0,165,876,0,876,54,0,0,54,53116840,473,0,0,0,473,0,473,121,121,154,1,121,121,8,0.06,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/cache/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/common.js",3,3,4,1,15,2,13,0,0,,2,38,0,38,0,7,0,7,0,26,26,0,5,0,5,0,1,18,6,6,0,12,12,0,1,1,1,1,3,3,2,0.19,6,6,8,2
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/db_update.php",3,3,4,2,18,3,14,1,0,,19,1905,0,0,1905,438,0,0,438,1236,0,1236,247,0,0,247,999999999,800,27,0,27,773,0,773,173,144,200,44,173,144,9,0.20,72,72,82,42
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/delete.php",0,0,0,0,0,0,0,0,0,,0,137,0,0,137,27,0,0,27,98,0,98,12,0,0,12,160,55,0,0,0,55,0,55,15,15,22,1,15,15,2,0.12,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/edit.php",0,0,0,0,0,0,0,0,0,,0,288,0,0,288,55,0,0,55,212,0,212,21,0,0,21,54756864,129,0,0,0,129,0,129,47,47,66,1,47,47,6,0.10,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/extern.php",4,4,4,1,32,6,24,0,0,,5,552,0,0,552,107,0,0,107,346,0,346,99,0,0,99,4455792,247,9,0,9,238,0,238,58,58,76,1,58,58,6,0.29,22,22,22,5
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/footer.php",0,0,0,0,0,0,0,0,0,,0,163,0,0,163,34,0,0,34,111,0,111,18,0,0,18,7840,71,0,0,0,71,0,71,26,26,29,1,26,26,5,0.16,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/header.php",0,0,0,0,0,0,0,0,0,,0,325,0,0,325,71,0,0,71,209,0,209,49,0,0,49,345047040,128,0,0,0,128,0,128,45,45,55,1,45,45,4,0.23,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/help.php",0,0,0,0,0,0,0,0,0,,0,154,0,0,154,16,0,0,16,130,0,130,8,0,0,8,8,150,0,0,0,150,0,150,4,4,4,1,4,4,1,0.06,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/img/avatars/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/img/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/img/smilies/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/cache.php",5,5,5,1,29,6,21,2,0,,7,257,0,0,257,65,0,0,65,152,0,152,41,0,0,41,2,116,12,0,12,104,0,104,2,2,2,1,12,12,6,0.27,36,36,38,9
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/common.php",2,2,2,1,4,0,4,0,0,,1,199,0,0,199,43,0,0,43,117,0,117,41,0,0,41,28311552,93,1,0,1,92,0,92,28,28,40,1,28,28,3,0.35,2,2,2,1
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/common_admin.php",14,14,15,1,57,11,42,4,0,,2,146,0,0,146,29,0,0,29,95,0,95,22,0,0,22,6,74,4,0,4,70,0,70,4,4,4,1,19,19,2,0.23,28,28,31,2
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/dblayer/common_db.php",0,0,0,0,0,0,0,0,0,,0,48,0,0,48,12,0,0,12,28,0,28,8,0,0,8,16,18,0,0,0,18,0,18,8,3,8,1,8,3,1,0.29,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/dblayer/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/dblayer/mysql.php",3,3,3,1,9,1,7,0,1,,31,372,0,0,372,105,0,0,105,254,0,254,13,0,0,13,2,160,40,0,40,120,0,120,2,2,2,1,16,16,2,0.05,107,107,112,35
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/dblayer/mysql_innodb.php",3,3,3,1,9,1,7,0,1,,31,386,0,0,386,110,0,0,110,262,0,262,14,0,0,14,2,168,41,0,41,127,0,127,2,2,2,1,16,16,2,0.05,108,108,113,35
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/dblayer/mysqli.php",3,3,3,1,9,1,7,0,1,,31,379,0,0,379,110,0,0,110,254,0,254,15,0,0,15,2,162,40,0,40,122,0,122,2,2,2,1,16,16,2,0.06,108,108,115,36
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/dblayer/mysqli_innodb.php",3,3,3,1,9,1,7,0,1,,31,392,0,0,392,114,0,0,114,262,0,262,16,0,0,16,2,170,41,0,41,129,0,129,2,2,2,1,16,16,2,0.06,109,109,116,36
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/dblayer/pgsql.php",3,3,3,1,10,1,8,0,1,,31,436,0,0,436,123,0,0,123,298,0,298,17,0,0,17,2,192,42,0,42,150,0,150,2,2,2,1,13,13,3,0.06,115,115,119,33
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/dblayer/sqlite.php",5,5,5,1,15,2,11,1,1,,32,595,0,0,595,154,0,0,154,402,0,402,40,0,0,40,2,278,42,0,42,236,0,236,2,2,2,1,26,26,5,0.10,161,161,163,43
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/email.php",6,6,6,1,45,7,33,4,0,,7,364,0,0,364,66,0,0,66,240,0,240,59,0,0,59,2,139,11,0,11,128,0,128,2,2,2,1,20,20,3,0.25,43,43,47,9
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/functions.php",4,4,5,1,28,4,21,3,0,,61,2078,0,0,2078,399,0,0,399,1307,0,1307,430,0,0,430,1,806,98,0,98,708,0,708,1,1,1,1,21,20,6,0.33,295,284,356,114
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/parser.php",10,10,12,4,65,9,50,6,0,,13,976,0,0,976,151,0,0,151,679,0,679,151,0,0,151,2,454,23,0,23,431,0,431,2,2,2,1,60,60,8,0.22,133,133,159,61
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/search_idx.php",7,6,7,3,34,6,24,3,0,,7,316,0,0,316,70,0,0,70,194,0,194,71,0,0,71,2,113,11,0,11,102,0,102,2,2,2,1,21,18,4,0.37,49,43,52,22
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/srand.php",14,14,19,5,108,12,71,30,0,,1,145,0,0,145,13,0,0,13,72,0,72,65,0,0,65,1,46,1,0,1,45,0,45,1,1,1,1,14,14,4,0.90,14,14,19,5
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/template/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/user/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/mbstring/core.php",2,2,2,1,9,1,8,0,0,,6,144,0,0,144,14,0,0,14,52,0,52,78,0,0,78,2,30,6,0,6,24,0,24,2,2,2,1,5,5,2,1.50,12,12,12,10
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/mbstring/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/native/core.php",6,6,6,3,48,7,38,2,0,,6,422,0,0,422,51,0,0,51,235,0,235,136,0,0,136,2,103,8,0,8,95,0,95,2,2,2,1,17,17,4,0.58,38,38,40,22
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/native/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/ord.php",13,13,20,13,62,12,50,0,0,,1,78,0,0,78,14,0,0,14,51,0,51,13,0,0,13,1,36,1,0,1,35,0,35,1,1,1,1,13,13,1,0.25,13,13,20,13
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/str_ireplace.php",8,8,8,5,49,7,42,0,0,,1,72,0,0,72,9,0,0,9,43,0,43,20,0,0,20,1,27,1,0,1,26,0,26,1,1,1,1,8,8,4,0.47,8,8,8,5
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/str_pad.php",5,5,5,5,37,7,30,0,0,,1,59,0,0,59,9,0,0,9,31,0,31,19,0,0,19,1,22,1,0,1,21,0,21,1,1,1,1,5,5,1,0.61,5,5,5,5
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/str_split.php",3,3,4,3,13,3,10,0,0,,1,33,0,0,33,5,0,0,5,11,0,11,17,0,0,17,1,8,1,0,1,7,0,7,1,1,1,1,3,3,1,1.55,3,3,4,3
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/strcasecmp.php",1,1,1,1,7,1,6,0,0,,1,27,0,0,27,3,0,0,3,7,0,7,17,0,0,17,1,4,1,0,1,3,0,3,1,1,1,1,1,1,0,2.43,1,1,1,1
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/strcspn.php",4,4,6,3,17,5,12,0,0,,1,36,0,0,36,7,0,0,7,13,0,13,16,0,0,16,1,10,1,0,1,9,0,9,1,1,1,1,4,4,1,1.23,4,4,6,3
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/stristr.php",3,3,3,3,14,3,11,0,0,,1,34,0,0,34,5,0,0,5,12,0,12,17,0,0,17,1,9,1,0,1,8,0,8,1,1,1,1,3,3,1,1.42,3,3,3,3
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/strrev.php",1,1,1,1,5,0,5,0,0,,1,22,0,0,22,2,0,0,2,6,0,6,14,0,0,14,1,3,1,0,1,2,0,2,1,1,1,1,1,1,0,2.33,1,1,1,1
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/strspn.php",3,3,4,1,14,4,10,0,0,,1,32,0,0,32,6,0,0,6,11,0,11,15,0,0,15,1,8,1,0,1,7,0,7,1,1,1,1,3,3,1,1.36,3,3,4,1
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/substr_replace.php",2,2,2,1,12,3,9,0,0,,1,27,0,0,27,5,0,0,5,10,0,10,12,0,0,12,1,7,1,0,1,6,0,6,1,1,1,1,2,2,1,1.20,2,2,2,1
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/trim.php",2,2,2,1,9,1,6,0,0,,3,74,0,0,74,9,0,0,9,21,0,21,44,0,0,44,1,14,3,0,3,11,0,11,1,1,1,1,2,2,1,2.10,6,6,6,3
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/ucfirst.php",3,2,3,1,16,0,16,0,0,,1,35,0,0,35,2,0,0,2,17,0,17,16,0,0,16,1,9,1,0,1,8,0,8,1,1,1,1,3,2,1,0.94,3,2,3,1
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/ucwords.php",1,1,1,1,8,1,6,1,0,,2,46,0,0,46,5,0,0,5,13,0,13,28,0,0,28,1,8,2,0,2,6,0,6,1,1,1,1,1,1,0,2.15,2,2,2,2
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utf8.php",0,0,0,0,0,0,0,0,0,,0,72,0,0,72,10,0,0,10,30,0,30,32,0,0,32,84,22,0,0,0,22,0,22,10,10,12,1,10,10,2,1.07,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utils/ascii.php",2,2,2,1,20,3,17,0,0,,6,221,0,0,221,26,0,0,26,104,0,104,91,0,0,91,1,45,8,0,8,37,0,37,1,1,1,1,5,5,2,0.88,17,17,17,6
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utils/bad.php",7,6,8,5,45,5,34,10,0,,6,430,0,0,430,47,0,0,47,216,0,216,198,0,0,198,1,139,6,0,6,133,0,133,1,1,1,1,15,15,8,0.92,42,37,48,33
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utils/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utils/patterns.php",0,0,0,0,0,0,0,0,0,,0,67,0,0,67,4,0,0,4,30,0,30,58,0,0,58,1,3,0,0,0,3,0,3,1,1,1,1,1,1,0,1.93,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utils/position.php",6,6,8,4,38,7,26,7,0,,3,171,0,0,171,25,0,0,25,80,0,80,75,0,0,75,1,57,3,0,3,54,0,54,1,1,1,1,12,12,4,0.94,20,20,24,13
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utils/specials.php",1,1,1,1,24,1,23,0,0,,3,131,0,0,131,7,0,0,7,70,0,70,54,0,0,54,1,11,4,0,4,7,0,7,1,1,1,1,2,2,1,0.77,4,4,4,3
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utils/unicode.php",10,10,15,10,92,6,68,22,0,,2,241,0,0,241,16,0,0,16,138,0,138,96,0,0,96,1,82,2,0,2,80,0,80,1,1,1,1,13,13,8,0.70,21,21,31,20
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/include/utf8/utils/validation.php",7,7,11,6,67,4,45,20,0,,2,186,0,0,186,11,0,0,11,92,0,92,87,0,0,87,1,53,2,0,2,51,0,51,1,1,1,1,12,12,8,0.95,14,14,22,13
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/index.php",0,0,0,0,0,0,0,0,0,,0,265,0,0,265,49,0,0,49,200,0,200,17,0,0,17,8973504,123,0,0,0,123,0,123,33,33,39,5,33,33,4,0.09,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/install.php",1,1,1,1,5,0,4,0,0,,2,1807,0,0,1807,186,0,0,186,1569,0,1569,56,0,0,56,999999999,395,3,0,3,392,0,392,90,81,113,8,90,81,7,0.04,3,3,3,2
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_bans.php",0,0,0,0,0,0,0,0,0,,0,67,0,0,67,7,0,0,7,59,0,59,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.02,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_categories.php",0,0,0,0,0,0,0,0,0,,0,29,0,0,29,3,0,0,3,25,0,25,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.04,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_censoring.php",0,0,0,0,0,0,0,0,0,,0,21,0,0,21,3,0,0,3,17,0,17,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.06,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_common.php",0,0,0,0,0,0,0,0,0,,0,44,0,0,44,5,0,0,5,36,0,36,4,0,0,4,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.11,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_forums.php",0,0,0,0,0,0,0,0,0,,0,53,0,0,53,5,0,0,5,45,0,45,3,0,0,3,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.07,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_groups.php",0,0,0,0,0,0,0,0,0,,0,89,0,0,89,5,0,0,5,83,0,83,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.01,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_index.php",0,0,0,0,0,0,0,0,0,,0,58,0,0,58,3,0,0,3,53,0,53,2,0,0,2,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.04,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_maintenance.php",0,0,0,0,0,0,0,0,0,,0,40,0,0,40,3,0,0,3,36,0,36,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.03,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_options.php",0,0,0,0,0,0,0,0,0,,0,226,0,0,226,15,0,0,15,198,0,198,13,0,0,13,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.07,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_permissions.php",0,0,0,0,0,0,0,0,0,,0,36,0,0,36,3,0,0,3,32,0,32,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.03,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_reports.php",0,0,0,0,0,0,0,0,0,,0,21,0,0,21,3,0,0,3,17,0,17,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.06,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/admin_users.php",0,0,0,0,0,0,0,0,0,,0,110,0,0,110,6,0,0,6,102,0,102,2,0,0,2,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.02,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/common.php",0,0,0,0,0,0,0,0,0,,0,168,0,0,168,14,0,0,14,141,0,141,29,0,0,29,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.21,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/delete.php",0,0,0,0,0,0,0,0,0,,0,16,0,0,16,3,0,0,3,12,0,12,2,0,0,2,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.17,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/forum.php",0,0,0,0,0,0,0,0,0,,0,17,0,0,17,3,0,0,3,13,0,13,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.08,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/help.php",0,0,0,0,0,0,0,0,0,,0,66,0,0,66,12,0,0,12,53,0,53,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.02,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/index.php",0,0,0,0,0,0,0,0,0,,0,20,0,0,20,3,0,0,3,16,0,16,3,0,0,3,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.19,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/install.php",0,0,0,0,0,0,0,0,0,,0,118,0,0,118,4,0,0,4,113,0,113,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.01,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/login.php",0,0,0,0,0,0,0,0,0,,0,26,0,0,26,4,0,0,4,19,0,19,3,0,0,3,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.16,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/mail_templates/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/misc.php",0,0,0,0,0,0,0,0,0,,0,93,0,0,93,11,0,0,11,73,0,73,10,0,0,10,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.14,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/post.php",0,0,0,0,0,0,0,0,0,,0,38,0,0,38,5,0,0,5,29,0,29,6,0,0,6,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.21,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/prof_reg.php",0,0,0,0,0,0,0,0,0,,0,79,0,0,79,5,0,0,5,73,0,73,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.01,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/profile.php",0,0,0,0,0,0,0,0,0,,0,142,0,0,142,10,0,0,10,123,0,123,13,0,0,13,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.11,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/register.php",0,0,0,0,0,0,0,0,0,,0,37,0,0,37,6,0,0,6,26,0,26,5,0,0,5,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.19,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/search.php",0,0,0,0,0,0,0,0,0,,0,65,0,0,65,4,0,0,4,58,0,58,3,0,0,3,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.05,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/topic.php",0,0,0,0,0,0,0,0,0,,0,32,0,0,32,3,0,0,3,28,0,28,3,0,0,3,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.11,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/update.php",0,0,0,0,0,0,0,0,0,,0,75,0,0,75,10,0,0,10,64,0,64,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.02,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/English/userlist.php",0,0,0,0,0,0,0,0,0,,0,13,0,0,13,3,0,0,3,9,0,9,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0.11,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/lang/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/login.php",0,0,0,0,0,0,0,0,0,,0,304,0,0,304,63,0,0,63,211,0,211,32,0,0,32,68508,134,0,0,0,134,0,134,37,37,49,1,37,37,8,0.15,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/misc.php",0,0,0,0,0,0,0,0,0,,0,418,0,0,418,99,0,0,99,291,0,291,29,0,0,29,34018,222,0,0,0,222,0,222,67,67,81,1,67,67,9,0.10,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/moderate.php",0,0,0,0,0,0,0,0,0,,0,1004,0,0,1004,207,0,0,207,712,0,712,90,0,0,90,999999999,484,0,0,0,484,0,484,128,126,149,1,128,126,7,0.13,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/plugins/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/post.php",0,0,0,0,0,0,0,0,0,,0,758,0,0,758,140,0,0,140,543,0,543,76,0,0,76,999999999,359,0,0,0,359,0,359,121,121,163,1,121,121,9,0.14,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/profile.php",0,0,0,0,0,0,0,0,0,,0,1823,0,0,1823,309,0,0,309,1442,0,1442,95,0,0,95,999999999,962,0,0,0,962,0,962,319,310,393,12,319,310,14,0.07,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/register.php",0,0,0,0,0,0,0,0,0,,0,436,0,0,436,72,0,0,72,329,0,329,36,0,0,36,999999999,312,0,0,0,312,0,312,90,90,94,1,90,90,4,0.11,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/search.php",0,0,0,0,0,0,0,0,0,,0,914,0,0,914,147,0,0,147,717,0,717,52,0,0,52,999999999,452,0,0,0,452,0,452,154,147,200,10,154,147,11,0.07,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Air.css",0,0,0,0,0,0,0,0,0,,0,1666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Air/base_admin.css",0,0,0,0,0,0,0,0,0,,0,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Air/img/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Air/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Cobalt.css",0,0,0,0,0,0,0,0,0,,0,1148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Earth.css",0,0,0,0,0,0,0,0,0,,0,1665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Earth/base_admin.css",0,0,0,0,0,0,0,0,0,,0,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Earth/img/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Earth/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Fire.css",0,0,0,0,0,0,0,0,0,,0,1665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Fire/base_admin.css",0,0,0,0,0,0,0,0,0,,0,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Fire/img/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Fire/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Lithium.css",0,0,0,0,0,0,0,0,0,,0,1147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Mercury.css",0,0,0,0,0,0,0,0,0,,0,1148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Oxygen.css",0,0,0,0,0,0,0,0,0,,0,1148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Radium.css",0,0,0,0,0,0,0,0,0,,0,1148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Sulfur.css",0,0,0,0,0,0,0,0,0,,0,1147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Technetium.css",0,0,0,0,0,0,0,0,0,,0,1371,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/Technetium/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/imports/base_admin.css",0,0,0,0,0,0,0,0,0,,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/imports/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/imports/minmax.js",0,0,0,0,0,0,0,0,0,,0,94,0,94,0,17,0,17,0,0,0,0,77,0,77,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/style/index.html",0,0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/userlist.php",0,0,0,0,0,0,0,0,0,,0,183,0,0,183,33,0,0,33,136,0,136,14,0,0,14,193536,88,0,0,0,88,0,88,32,32,40,1,32,32,3,0.10,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/viewforum.php",0,0,0,0,0,0,0,0,0,,0,300,0,0,300,48,0,0,48,231,0,231,21,0,0,21,141696000,135,0,0,0,135,0,135,45,43,61,1,45,43,4,0.09,0,0,0,0
+File,"/Users/sbicer/Desktop/akademik/fluxbb/fluxbb-fluxbb-1.5.3/viewtopic.php",0,0,0,0,0,0,0,0,0,,0,459,0,0,459,85,0,0,85,342,0,342,33,0,0,33,999999999,243,0,0,0,243,0,243,85,85,120,1,85,85,5,0.10,0,0,0,0
+Class,"DBLayer",5,5,5,1,15,2,11,1,,,,581,,,581,150,,,150,398,,398,34,,,34,,,42,,42,234,,234,,,,,26,26,5,,161,161,163,43
+Class,"DBLayer",3,3,3,1,9,1,7,0,,,,378,,,378,110,,,110,258,,258,10,,,10,,,41,,41,127,,127,,,,,16,16,2,,109,109,116,36
+Class,"DBLayer",3,3,3,1,9,1,7,0,,,,358,,,358,101,,,101,250,,250,7,,,7,,,40,,40,118,,118,,,,,16,16,2,,107,107,112,35
+Class,"DBLayer",3,3,3,1,9,1,7,0,,,,372,,,372,106,,,106,258,,258,8,,,8,,,41,,41,125,,125,,,,,16,16,2,,108,108,113,35
+Class,"DBLayer",3,3,3,1,10,1,8,0,,,,422,,,422,119,,,119,294,,294,11,,,11,,,42,,42,148,,148,,,,,13,13,3,,115,115,119,33
+Class,"DBLayer",3,3,3,1,9,1,7,0,,,,365,,,365,106,,,106,250,,250,9,,,9,,,40,,40,120,,120,,,,,16,16,2,,108,108,115,36
+Public Function,"DBLayer::add_field",,,,,,,,,,,,77,,,77,21,,,21,47,,47,9,,,9,2305,,1,,1,41,,41,26,26,27,1,,,2,,,,,
+Public Function,"DBLayer::add_field",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,3,,1,,1,6,,6,8,8,10,1,,,1,,,,,
+Public Function,"DBLayer::add_field",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,3,,1,,1,6,,6,8,8,10,1,,,1,,,,,
+Public Function,"DBLayer::add_field",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,3,,1,,1,6,,6,8,8,10,1,,,1,,,,,
+Public Function,"DBLayer::add_field",,,,,,,,,,,,23,,,23,6,,,6,17,,17,0,,,0,7,,1,,1,12,,12,13,13,14,1,,,2,,,,,
+Public Function,"DBLayer::add_field",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,3,,1,,1,6,,6,8,8,10,1,,,1,,,,,
+Public Function,"DBLayer::add_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,6,6,6,1,,,1,,,,,
+Public Function,"DBLayer::add_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,6,6,6,1,,,1,,,,,
+Public Function,"DBLayer::add_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,6,6,6,1,,,1,,,,,
+Public Function,"DBLayer::add_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,6,6,6,1,,,1,,,,,
+Public Function,"DBLayer::add_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,6,6,6,1,,,1,,,,,
+Public Function,"DBLayer::add_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,6,6,6,1,,,1,,,,,
+Public Function,"DBLayer::affected_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::affected_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::affected_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::affected_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::affected_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::affected_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::alter_field",,,,,,,,,,,,5,,,5,0,,,0,4,,4,1,,,1,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::alter_field",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,3,,1,,1,6,,6,8,8,10,1,,,1,,,,,
+Public Function,"DBLayer::alter_field",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,3,,1,,1,6,,6,8,8,10,1,,,1,,,,,
+Public Function,"DBLayer::alter_field",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,3,,1,,1,6,,6,8,8,10,1,,,1,,,,,
+Public Function,"DBLayer::alter_field",,,,,,,,,,,,14,,,14,3,,,3,11,,11,0,,,0,2,,1,,1,8,,8,6,6,6,1,,,1,,,,,
+Public Function,"DBLayer::alter_field",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,3,,1,,1,6,,6,8,8,10,1,,,1,,,,,
+Public Function,"DBLayer::close",,,,,,,,,,,,17,,,17,2,,,2,15,,15,0,,,0,4,,1,,1,7,,7,4,4,4,1,,,3,,,,,
+Public Function,"DBLayer::close",,,,,,,,,,,,12,,,12,1,,,1,11,,11,0,,,0,3,,1,,1,5,,5,3,3,3,1,,,2,,,,,
+Public Function,"DBLayer::close",,,,,,,,,,,,12,,,12,1,,,1,11,,11,0,,,0,3,,1,,1,5,,5,3,3,3,1,,,2,,,,,
+Public Function,"DBLayer::close",,,,,,,,,,,,12,,,12,1,,,1,11,,11,0,,,0,3,,1,,1,5,,5,3,3,3,1,,,2,,,,,
+Public Function,"DBLayer::close",,,,,,,,,,,,20,,,20,3,,,3,17,,17,0,,,0,7,,1,,1,9,,9,5,5,5,1,,,3,,,,,
+Public Function,"DBLayer::close",,,,,,,,,,,,12,,,12,1,,,1,11,,11,0,,,0,3,,1,,1,5,,5,3,3,3,1,,,2,,,,,
+Public Function,"DBLayer::create_table",,,,,,,,,,,,48,,,48,12,,,12,31,,31,5,,,5,91,,1,,1,22,,22,12,12,12,1,,,2,,,,,
+Public Function,"DBLayer::create_table",,,,,,,,,,,,49,,,49,12,,,12,32,,32,5,,,5,163,,1,,1,23,,23,16,16,16,1,,,2,,,,,
+Public Function,"DBLayer::create_table",,,,,,,,,,,,49,,,49,12,,,12,32,,32,5,,,5,163,,1,,1,23,,23,16,16,16,1,,,2,,,,,
+Public Function,"DBLayer::create_table",,,,,,,,,,,,49,,,49,12,,,12,32,,32,5,,,5,163,,1,,1,23,,23,16,16,16,1,,,2,,,,,
+Public Function,"DBLayer::create_table",,,,,,,,,,,,49,,,49,12,,,12,31,,31,6,,,6,91,,1,,1,22,,22,12,12,13,1,,,2,,,,,
+Public Function,"DBLayer::create_table",,,,,,,,,,,,49,,,49,12,,,12,32,,32,5,,,5,163,,1,,1,23,,23,16,16,16,1,,,2,,,,,
+Public Function,"DBLayer::dblayer",,,,,,,,,,,,31,,,31,6,,,6,24,,24,1,,,1,48,,1,,1,17,,17,7,7,7,1,,,2,,,,,
+Public Function,"DBLayer::dblayer",,,,,,,,,,,,25,,,25,6,,,6,16,,16,3,,,3,16,,1,,1,12,,12,6,6,7,1,,,1,,,,,
+Public Function,"DBLayer::dblayer",,,,,,,,,,,,23,,,23,4,,,4,18,,18,1,,,1,12,,1,,1,11,,11,5,5,5,1,,,2,,,,,
+Public Function,"DBLayer::dblayer",,,,,,,,,,,,23,,,23,4,,,4,18,,18,1,,,1,12,,1,,1,11,,11,5,5,5,1,,,2,,,,,
+Public Function,"DBLayer::dblayer",,,,,,,,,,,,38,,,38,8,,,8,29,,29,1,,,1,192,,1,,1,20,,20,9,9,9,1,,,2,,,,,
+Public Function,"DBLayer::dblayer",,,,,,,,,,,,25,,,25,6,,,6,16,,16,3,,,3,16,,1,,1,12,,12,6,6,7,1,,,1,,,,,
+Public Function,"DBLayer::drop_field",,,,,,,,,,,,52,,,52,14,,,14,31,,31,7,,,7,33,,1,,1,26,,26,20,20,20,1,,,3,,,,,
+Public Function,"DBLayer::drop_field",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_field",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_field",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_field",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_field",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,5,5,5,1,,,1,,,,,
+Public Function,"DBLayer::drop_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,5,5,5,1,,,1,,,,,
+Public Function,"DBLayer::drop_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,5,5,5,1,,,1,,,,,
+Public Function,"DBLayer::drop_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_index",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,5,5,5,1,,,1,,,,,
+Public Function,"DBLayer::drop_table",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_table",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_table",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_table",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_table",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::drop_table",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,4,4,4,1,,,1,,,,,
+Public Function,"DBLayer::end_transaction",,,,,,,,,,,,12,,,12,1,,,1,11,,11,0,,,0,2,,1,,1,5,,5,2,2,2,1,,,1,,,,,
+Public Function,"DBLayer::end_transaction",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,1,,1,,1,3,,3,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::end_transaction",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::end_transaction",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,1,,1,,1,3,,3,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::end_transaction",,,,,,,,,,,,12,,,12,1,,,1,11,,11,0,,,0,2,,1,,1,5,,5,2,2,2,1,,,1,,,,,
+Public Function,"DBLayer::end_transaction",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::error",,,,,,,,,,,,8,,,8,1,,,1,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::error",,,,,,,,,,,,8,,,8,1,,,1,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::error",,,,,,,,,,,,8,,,8,1,,,1,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::error",,,,,,,,,,,,8,,,8,1,,,1,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::error",,,,,,,,,,,,8,,,8,1,,,1,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::error",,,,,,,,,,,,8,,,8,1,,,1,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::escape",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::escape",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::escape",,,,,,,,,,,,9,,,9,0,,,0,9,,9,0,,,0,3,,1,,1,5,,5,3,3,3,3,,,2,,,,,
+Public Function,"DBLayer::escape",,,,,,,,,,,,9,,,9,0,,,0,9,,9,0,,,0,3,,1,,1,5,,5,3,3,3,3,,,2,,,,,
+Public Function,"DBLayer::escape",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::escape",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_assoc",,,,,,,,,,,,25,,,25,1,,,1,23,,23,1,,,1,5,,1,,1,11,,11,5,5,5,1,,,4,,,,,
+Public Function,"DBLayer::fetch_assoc",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_assoc",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_assoc",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_assoc",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_assoc",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_row",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_row",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_row",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_row",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_row",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::fetch_row",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::field_exists",,,,,,,,,,,,8,,,8,1,,,1,7,,7,0,,,0,2,,1,,1,4,,4,3,3,3,1,,,1,,,,,
+Public Function,"DBLayer::field_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::field_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::field_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::field_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::field_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::free_result",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::free_result",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::free_result",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::free_result",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::free_result",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,3,3,3,1,,,1,,,,,
+Public Function,"DBLayer::free_result",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::get_names",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_names",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_names",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_names",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_names",,,,,,,,,,,,5,,,5,0,,,0,5,,5,1,,,1,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_names",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_num_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_num_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_num_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_num_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_num_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_num_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_saved_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_saved_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_saved_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_saved_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_saved_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_saved_queries",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_table_info",,,,,,,,,,,,40,,,40,5,,,5,33,,33,3,,,3,31,,1,,1,25,,25,11,11,11,6,,,5,,,,,
+Public Function,"DBLayer::get_version",,,,,,,,,,,,7,,,7,0,,,0,7,,7,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_version",,,,,,,,,,,,9,,,9,1,,,1,8,,8,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_version",,,,,,,,,,,,9,,,9,1,,,1,8,,8,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_version",,,,,,,,,,,,9,,,9,1,,,1,8,,8,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_version",,,,,,,,,,,,9,,,9,1,,,1,8,,8,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::get_version",,,,,,,,,,,,9,,,9,1,,,1,8,,8,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::index_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,3,3,3,1,,,0,,,,,
+Public Function,"DBLayer::index_exists",,,,,,,,,,,,16,,,16,2,,,2,14,,14,0,,,0,3,,1,,1,7,,7,5,5,5,3,,,2,,,,,
+Public Function,"DBLayer::index_exists",,,,,,,,,,,,16,,,16,2,,,2,14,,14,0,,,0,3,,1,,1,7,,7,5,5,5,3,,,2,,,,,
+Public Function,"DBLayer::index_exists",,,,,,,,,,,,16,,,16,2,,,2,14,,14,0,,,0,3,,1,,1,7,,7,5,5,5,3,,,2,,,,,
+Public Function,"DBLayer::index_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,3,3,3,1,,,0,,,,,
+Public Function,"DBLayer::index_exists",,,,,,,,,,,,16,,,16,2,,,2,14,,14,0,,,0,3,,1,,1,7,,7,5,5,5,3,,,2,,,,,
+Public Function,"DBLayer::insert_id",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::insert_id",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::insert_id",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::insert_id",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::insert_id",,,,,,,,,,,,19,,,19,3,,,3,15,,15,1,,,1,4,,1,,1,8,,8,5,5,6,3,,,3,,,,,
+Public Function,"DBLayer::insert_id",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::num_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::num_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::num_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::num_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::num_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::num_rows",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::query",,,,,,,,,,,,35,,,35,8,,,8,27,,27,0,,,0,24,,1,,1,18,,18,7,7,7,1,,,2,,,,,
+Public Function,"DBLayer::query",,,,,,,,,,,,33,,,33,8,,,8,24,,24,1,,,1,12,,1,,1,16,,16,6,6,6,1,,,2,,,,,
+Public Function,"DBLayer::query",,,,,,,,,,,,30,,,30,6,,,6,24,,24,0,,,0,16,,1,,1,15,,15,6,6,6,1,,,2,,,,,
+Public Function,"DBLayer::query",,,,,,,,,,,,36,,,36,8,,,8,27,,27,1,,,1,24,,1,,1,18,,18,7,7,7,1,,,2,,,,,
+Public Function,"DBLayer::query",,,,,,,,,,,,38,,,38,10,,,10,28,,28,1,,,1,24,,1,,1,20,,20,7,7,7,1,,,2,,,,,
+Public Function,"DBLayer::query",,,,,,,,,,,,27,,,27,6,,,6,21,,21,0,,,0,8,,1,,1,13,,13,5,5,5,1,,,2,,,,,
+Public Function,"DBLayer::rename_table",,,,,,,,,,,,38,,,38,6,,,6,25,,25,7,,,7,9,,1,,1,18,,18,18,18,18,4,,,3,,,,,
+Public Function,"DBLayer::rename_table",,,,,,,,,,,,8,,,8,1,,,1,6,,6,1,,,1,2,,1,,1,3,,3,5,5,6,1,,,1,,,,,
+Public Function,"DBLayer::rename_table",,,,,,,,,,,,8,,,8,1,,,1,6,,6,1,,,1,2,,1,,1,3,,3,5,5,6,1,,,1,,,,,
+Public Function,"DBLayer::rename_table",,,,,,,,,,,,8,,,8,1,,,1,6,,6,1,,,1,2,,1,,1,3,,3,5,5,6,1,,,1,,,,,
+Public Function,"DBLayer::rename_table",,,,,,,,,,,,8,,,8,1,,,1,6,,6,1,,,1,2,,1,,1,3,,3,5,5,6,1,,,1,,,,,
+Public Function,"DBLayer::rename_table",,,,,,,,,,,,8,,,8,1,,,1,6,,6,1,,,1,2,,1,,1,3,,3,5,5,6,1,,,1,,,,,
+Public Function,"DBLayer::result",,,,,,,,,,,,16,,,16,2,,,2,14,,14,0,,,0,4,,1,,1,8,,8,4,4,5,4,,,2,,,,,
+Public Function,"DBLayer::result",,,,,,,,,,,,16,,,16,2,,,2,14,,14,0,,,0,4,,1,,1,8,,8,4,4,5,4,,,2,,,,,
+Public Function,"DBLayer::result",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::result",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::result",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::result",,,,,,,,,,,,16,,,16,2,,,2,14,,14,0,,,0,4,,1,,1,8,,8,4,4,5,4,,,2,,,,,
+Public Function,"DBLayer::set_names",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::set_names",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::set_names",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::set_names",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::set_names",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::set_names",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::start_transaction",,,,,,,,,,,,6,,,6,1,,,1,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::start_transaction",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,1,,1,,1,3,,3,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::start_transaction",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::start_transaction",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,1,,1,,1,3,,3,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::start_transaction",,,,,,,,,,,,6,,,6,1,,,1,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::start_transaction",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Public Function,"DBLayer::table_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::table_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::table_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::table_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::table_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::table_exists",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,2,2,2,1,,,0,,,,,
+Public Function,"DBLayer::truncate_table",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,3,3,3,1,,,0,,,,,
+Public Function,"DBLayer::truncate_table",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,3,3,3,1,,,0,,,,,
+Public Function,"DBLayer::truncate_table",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,3,3,3,1,,,0,,,,,
+Public Function,"DBLayer::truncate_table",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,3,3,3,1,,,0,,,,,
+Public Function,"DBLayer::truncate_table",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,3,3,3,1,,,0,,,,,
+Public Function,"DBLayer::truncate_table",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,3,3,3,1,,,0,,,,,
+Function,"_conv_bans",,,,,,,,,,,,11,,,11,3,,,3,8,,8,0,,,0,1,,2,,2,4,,4,1,1,1,1,,,0,,,,,
+Function,"_conv_categories",,,,,,,,,,,,6,,,6,1,,,1,5,,5,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Function,"_conv_censoring",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,1,,1,,1,3,,3,1,1,1,1,,,0,,,,,
+Function,"_conv_config",,,,,,,,,,,,6,,,6,1,,,1,5,,5,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Function,"_conv_forums",,,,,,,,,,,,18,,,18,3,,,3,15,,15,0,,,0,4,,1,,1,10,,10,4,4,4,1,,,1,,,,,
+Function,"_conv_groups",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,1,,1,,1,3,,3,1,1,1,1,,,0,,,,,
+Function,"_conv_posts",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,1,,2,,2,5,,5,1,1,1,1,,,0,,,,,
+Function,"_conv_reports",,,,,,,,,,,,10,,,10,3,,,3,7,,7,0,,,0,1,,2,,2,3,,3,1,1,1,1,,,0,,,,,
+Function,"_conv_topics",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,1,,2,,2,5,,5,1,1,1,1,,,0,,,,,
+Function,"_conv_users",,,,,,,,,,,,15,,,15,3,,,3,12,,12,0,,,0,1,,2,,2,8,,8,1,1,1,1,,,0,,,,,
+Function,"_error_users",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"alter_table_utf8",,,,,,,,,,,,41,,,41,6,,,6,33,,33,2,,,2,11,,3,,3,15,,15,7,7,8,4,,,2,,,,,
+Function,"array_insert",,,,,,,,,,,,17,,,17,3,,,3,12,,12,2,,,2,12,,1,,1,9,,9,5,5,5,1,,,2,,,,,
+Function,"authenticate_user",,,,,,,,,,,,15,,,15,2,,,2,12,,12,1,,,1,2,,2,,2,5,,5,3,3,7,1,,,1,,,,,
+Function,"bbcode2email",,,,,,,,,,,,146,,,146,18,,,18,113,,113,16,,,16,1368,,2,,2,50,,50,20,20,20,1,,,3,,,,,
+Function,"censor_words",,,,,,,,,,,,26,,,26,5,,,5,20,,20,1,,,1,14,,3,,3,11,,11,6,6,6,1,,,3,,,,,
+Function,"check_bans",,,,,,,,,,,,66,,,66,11,,,11,49,,49,6,,,6,148,,2,,2,30,,30,15,15,18,7,,,4,,,,,
+Function,"check_cookie",,,,,,,,,,,,117,,,117,18,,,18,85,,85,16,,,16,422,,2,,2,47,,47,21,17,26,12,,,4,,,,,
+Function,"check_username",,,,,,,,,,,,46,,,46,7,,,7,34,,34,6,,,6,84,,2,,2,24,,24,12,12,19,3,,,6,,,,,
+Function,"clean_paragraphs",,,,,,,,,,,,21,,,21,6,,,6,12,,12,3,,,3,1,,1,,1,9,,9,1,1,1,1,,,0,,,,,
+Function,"clear_feed_cache",,,,,,,,,,,,10,,,10,0,,,0,10,,10,0,,,0,3,,1,,1,5,,5,3,3,4,1,,,2,,,,,
+Function,"confirm_referrer",,,,,,,,,,,,22,,,22,4,,,4,14,,14,4,,,4,16,,2,,2,10,,10,7,7,8,1,,,1,,,,,
+Function,"convert_table_utf8",,,,,,,,,,,,94,,,94,21,,,21,61,,61,12,,,12,39,,2,,2,40,,40,19,19,22,5,,,3,,,,,
+Function,"convert_to_utf8",,,,,,,,,,,,34,,,34,7,,,7,23,,23,4,,,4,21,,1,,1,18,,18,10,10,14,1,,,4,,,,,
+Function,"dcr2utf8",,,,,,,,,,,,42,,,42,1,,,1,38,,38,3,,,3,8,,1,,1,22,,22,8,8,9,8,,,7,,,,,
+Function,"delete_avatar",,,,,,,,,,,,13,,,13,2,,,2,10,,10,1,,,1,3,,2,,2,4,,4,3,3,3,1,,,2,,,,,
+Function,"delete_post",,,,,,,,,,,,31,,,31,5,,,5,20,,20,6,,,6,3,,2,,2,12,,12,3,3,3,1,,,2,,,,,
+Function,"delete_topic",,,,,,,,,,,,25,,,25,5,,,5,15,,15,5,,,5,4,,2,,2,9,,9,4,4,4,1,,,1,,,,,
+Function,"display_saved_queries",,,,,,,,,,,,49,,,49,8,,,8,40,,40,1,,,1,2,,2,,2,10,,10,3,3,3,1,,,1,,,,,
+Function,"do_bbcode",,,,,,,,,,,,84,,,84,9,,,9,74,,74,1,,,1,12,,2,,2,59,,59,5,5,8,1,,,2,,,,,
+Function,"do_clickable",,,,,,,,,,,,9,,,9,2,,,2,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Function,"do_smilies",,,,,,,,,,,,14,,,14,3,,,3,11,,11,0,,,0,3,,2,,2,5,,5,3,3,3,1,,,2,,,,,
+Function,"dump",,,,,,,,,,,,15,,,15,3,,,3,12,,12,0,,,0,2,,1,,1,7,,7,2,2,2,1,,,1,,,,,
+Function,"encode_mail_text",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,2,2,2,1,,,1,,,,,
+Function,"error",,,,,,,,,,,,90,,,90,15,,,15,68,,68,9,,,9,128,,2,,2,24,,24,10,10,13,1,,,3,,,,,
+Function,"escape_cdata",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"extract_blocks",,,,,,,,,,,,51,,,51,6,,,6,45,,45,0,,,0,24,,2,,2,26,,26,9,9,11,1,,,4,,,,,
+Function,"file_size",,,,,,,,,,,,11,,,11,3,,,3,8,,8,0,,,0,2,,2,,2,4,,4,2,2,2,1,,,1,,,,,
+Function,"format_time",,,,,,,,,,,,36,,,36,7,,,7,29,,29,0,,,0,49,,2,,2,22,,22,9,9,9,4,,,3,,,,,
+Function,"forum_clear_cache",,,,,,,,,,,,10,,,10,0,,,0,10,,10,0,,,0,3,,1,,1,5,,5,3,3,3,1,,,2,,,,,
+Function,"forum_hmac",,,,,,,,,,,,30,,,30,7,,,7,18,,18,6,,,6,9,,1,,1,14,,14,5,5,5,1,,,1,,,,,
+Function,"forum_is_writable",,,,,,,,,,,,22,,,22,5,,,5,16,,16,1,,,1,4,,1,,1,11,,11,4,4,4,3,,,1,,,,,
+Function,"forum_list_langs",,,,,,,,,,,,19,,,19,4,,,4,15,,15,0,,,0,5,,1,,1,10,,10,4,4,5,3,,,2,,,,,
+Function,"forum_list_plugins",,,,,,,,,,,,22,,,22,5,,,5,17,,17,0,,,0,5,,1,,1,12,,12,4,4,9,3,,,2,,,,,
+Function,"forum_list_styles",,,,,,,,,,,,19,,,19,4,,,4,15,,15,0,,,0,5,,1,,1,10,,10,4,4,4,3,,,2,,,,,
+Function,"forum_number_format",,,,,,,,,,,,6,,,6,1,,,1,5,,5,0,,,0,1,,2,,2,1,,1,2,2,2,1,,,0,,,,,
+Function,"forum_remove_bad_characters",,,,,,,,,,,,7,,,7,0,,,0,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Function,"forum_setcookie",,,,,,,,,,,,12,,,12,2,,,2,9,,9,1,,,1,2,,2,,2,4,,4,2,2,2,1,,,1,,,,,
+Function,"forum_unregister_globals",,,,,,,,,,,,24,,,24,3,,,3,18,,18,4,,,4,7,,1,,1,11,,11,6,6,11,1,,,2,,,,,
+Function,"generate_admin_menu",,,,,,,,,,,,75,,,75,14,,,14,59,,59,2,,,2,13932,,2,,2,44,,44,19,19,22,1,,,2,,,,,
+Function,"generate_avatar_markup",,,,,,,,,,,,20,,,20,4,,,4,16,,16,0,,,0,3,,2,,2,8,,8,3,3,4,3,,,2,,,,,
+Function,"generate_bans_cache",,,,,,,,,,,,23,,,23,6,,,6,15,,15,2,,,2,8,,2,,2,11,,11,4,4,4,1,,,1,,,,,
+Function,"generate_censoring_cache",,,,,,,,,,,,26,,,26,6,,,6,19,,19,1,,,1,8,,2,,2,13,,13,4,4,4,1,,,1,,,,,
+Function,"generate_config_cache",,,,,,,,,,,,23,,,23,6,,,6,15,,15,2,,,2,8,,2,,2,11,,11,4,4,4,1,,,1,,,,,
+Function,"generate_config_file",,,,,,,,,,,,6,,,6,1,,,1,5,,5,0,,,0,1,,2,,2,1,,1,1,1,1,1,,,0,,,,,
+Function,"generate_page_title",,,,,,,,,,,,13,,,13,4,,,4,9,,9,0,,,0,2,,2,,2,5,,5,2,2,2,1,,,1,,,,,
+Function,"generate_profile_menu",,,,,,,,,,,,25,,,25,2,,,2,23,,23,0,,,0,288,,2,,2,31,,31,10,10,13,1,,,2,,,,,
+Function,"generate_quickjump_cache",,,,,,,,,,,,71,,,71,15,,,15,51,,51,6,,,6,75,,2,,2,32,,32,12,12,12,1,,,6,,,,,
+Function,"generate_stopwords_cache",,,,,,,,,,,,31,,,31,7,,,7,22,,22,2,,,2,20,,1,,1,17,,17,6,6,7,3,,,2,,,,,
+Function,"generate_stopwords_cache_id",,,,,,,,,,,,16,,,16,3,,,3,13,,13,0,,,0,3,,1,,1,8,,8,3,3,3,1,,,1,,,,,
+Function,"generate_users_info_cache",,,,,,,,,,,,24,,,24,7,,,7,16,,16,1,,,1,4,,2,,2,12,,12,3,3,3,1,,,1,,,,,
+Function,"get_base_url",,,,,,,,,,,,16,,,16,3,,,3,12,,12,1,,,1,3,,3,,3,5,,5,3,3,3,1,,,1,,,,,
+Function,"get_current_protocol",,,,,,,,,,,,22,,,22,4,,,4,14,,14,4,,,4,10,,1,,1,9,,9,5,5,7,1,,,2,,,,,
+Function,"get_current_url",,,,,,,,,,,,13,,,13,3,,,3,9,,9,1,,,1,2,,1,,1,6,,6,3,3,9,1,,,1,,,,,
+Function,"get_microtime",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Function,"get_remote_address",,,,,,,,,,,,23,,,23,3,,,3,15,,15,5,,,5,4,,1,,1,8,,8,4,4,5,1,,,3,,,,,
+Function,"get_title",,,,,,,,,,,,32,,,32,4,,,4,22,,22,6,,,6,15,,3,,3,14,,14,7,7,7,1,,,4,,,,,
+Function,"get_tracked_topics",,,,,,,,,,,,25,,,25,4,,,4,20,,20,1,,,1,5,,2,,2,14,,14,7,7,8,3,,,2,,,,,
+Function,"handle_img_tag",,,,,,,,,,,,16,,,16,4,,,4,12,,12,0,,,0,6,,2,,2,8,,8,4,4,6,1,,,2,,,,,
+Function,"handle_list_tag",,,,,,,,,,,,24,,,24,5,,,5,19,,19,0,,,0,12,,2,,2,11,,11,5,5,5,1,,,2,,,,,
+Function,"handle_url_tag",,,,,,,,,,,,40,,,40,4,,,4,34,,34,6,,,6,21,,1,,1,22,,22,10,10,11,4,,,4,,,,,
+Function,"http_authenticate_user",,,,,,,,,,,,10,,,10,2,,,2,8,,8,0,,,0,2,,2,,2,4,,4,2,2,2,1,,,1,,,,,
+Function,"is_all_uppercase",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,2,1,,,0,,,,,
+Function,"is_banned_email",,,,,,,,,,,,14,,,14,2,,,2,12,,12,0,,,0,3,,2,,2,4,,4,3,3,6,3,,,2,,,,,
+Function,"is_cjk",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Function,"is_keyword",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,3,1,,,0,,,,,
+Function,"is_valid_email",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,2,2,2,1,,,1,,,,,
+Function,"maintenance_message",,,,,,,,,,,,108,,,108,27,,,27,65,,65,18,,,18,8,,2,,2,43,,43,5,5,5,1,,,3,,,,,
+Function,"message",,,,,,,,,,,,31,,,31,5,,,5,25,,25,1,,,1,8,,2,,2,11,,11,4,4,4,1,,,1,,,,,
+Function,"output_atom",,,,,,,,,,,,51,,,51,12,,,12,38,,38,1,,,1,10,,2,,2,31,,31,7,7,7,1,,,2,,,,,
+Function,"output_html",,,,,,,,,,,,19,,,19,3,,,3,15,,15,1,,,1,3,,1,,1,9,,9,3,3,3,1,,,2,,,,,
+Function,"output_rss",,,,,,,,,,,,40,,,40,6,,,6,33,,33,1,,,1,4,,2,,2,26,,26,5,5,5,1,,,1,,,,,
+Function,"output_xml",,,,,,,,,,,,40,,,40,10,,,10,29,,29,1,,,1,5,,2,,2,23,,23,5,5,5,1,,,2,,,,,
+Function,"paginate",,,,,,,,,,,,56,,,56,10,,,10,42,,42,4,,,4,290,,2,,2,26,,26,20,20,26,4,,,4,,,,,
+Function,"parse_message",,,,,,,,,,,,43,,,43,8,,,8,31,,31,4,,,4,64,,2,,2,21,,21,9,9,14,1,,,3,,,,,
+Function,"parse_signature",,,,,,,,,,,,24,,,24,7,,,7,15,,15,2,,,2,8,,2,,2,11,,11,4,4,7,1,,,1,,,,,
+Function,"preparse_bbcode",,,,,,,,,,,,86,,,86,14,,,14,66,,66,6,,,6,4609,,3,,3,40,,40,17,17,18,7,,,3,,,,,
+Function,"preparse_list_tag",,,,,,,,,,,,23,,,23,5,,,5,18,,18,0,,,0,12,,2,,2,10,,10,5,5,5,1,,,2,,,,,
+Function,"preparse_tags",,,,,,,,,,,,429,,,429,51,,,51,326,,326,53,,,53,1089520750,,2,,2,209,,209,60,60,70,36,,,8,,,,,
+Function,"prune",,,,,,,,,,,,40,,,40,8,,,8,26,,26,6,,,6,20,,2,,2,18,,18,9,9,9,1,,,2,,,,,
+Function,"pun_hash",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"pun_htmlspecialchars",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"pun_htmlspecialchars_decode",,,,,,,,,,,,15,,,15,2,,,2,13,,13,1,,,1,3,,2,,2,7,,7,3,3,3,1,,,1,,,,,
+Function,"pun_linebreaks",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"pun_mail",,,,,,,,,,,,47,,,47,8,,,8,30,,30,9,,,9,4,,2,,2,19,,19,3,3,3,1,,,1,,,,,
+Function,"pun_setcookie",,,,,,,,,,,,6,,,6,1,,,1,5,,5,0,,,0,1,,2,,2,1,,1,1,1,1,1,,,0,,,,,
+Function,"pun_strlen",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"pun_trim",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Function,"random_key",,,,,,,,,,,,11,,,11,2,,,2,9,,9,0,,,0,3,,1,,1,6,,6,3,3,3,1,,,2,,,,,
+Function,"random_pass",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"redirect",,,,,,,,,,,,130,,,130,32,,,32,77,,77,23,,,23,64,,2,,2,54,,54,8,8,10,1,,,3,,,,,
+Function,"remove_bad_characters",,,,,,,,,,,,61,,,61,6,,,6,52,,52,40,,,40,4,,2,,2,8,,8,3,3,3,1,,,1,,,,,
+Function,"secure_random_bytes",,,,,,,,,,,,108,,,108,12,,,12,71,,71,30,,,30,163,,1,,1,45,,45,14,14,19,5,,,4,,,,,
+Function,"seems_utf8",,,,,,,,,,,,22,,,22,2,,,2,20,,20,8,,,8,20,,1,,1,19,,19,10,10,11,10,,,7,,,,,
+Function,"select_checkboxes",,,,,,,,,,,,15,,15,,2,,2,,13,13,,0,,0,,3,,3,3,,6,6,,3,3,4,1,,,2,,,,,
+Function,"server_parse",,,,,,,,,,,,12,,,12,1,,,1,11,,11,0,,,0,6,,1,,1,6,,6,4,4,4,1,,,2,,,,,
+Function,"set_default_user",,,,,,,,,,,,46,,,46,7,,,7,36,,36,3,,,3,16,,2,,2,21,,21,8,4,8,8,,,2,,,,,
+Function,"set_tracked_topics",,,,,,,,,,,,28,,,28,4,,,4,21,,21,4,,,4,9,,2,,2,13,,13,5,5,5,1,,,2,,,,,
+Function,"smtp_mail",,,,,,,,,,,,82,,,82,19,,,19,58,,58,5,,,5,64,,2,,2,40,,40,9,9,10,1,,,3,,,,,
+Function,"split_text",,,,,,,,,,,,22,,,22,5,,,5,15,,15,3,,,3,4,,2,,2,9,,9,3,3,4,1,,,1,,,,,
+Function,"split_words",,,,,,,,,,,,27,,,27,6,,,6,14,,14,7,,,7,3,,1,,1,9,,9,4,4,4,1,,,2,,,,,
+Function,"strip_bad_multibyte_chars",,,,,,,,,,,,22,,,22,2,,,2,19,,19,1,,,1,3,,1,,1,9,,9,3,3,4,1,,,2,,,,,
+Function,"strip_bbcode",,,,,,,,,,,,16,,,16,2,,,2,14,,14,4,,,4,2,,2,,2,3,,3,2,2,2,1,,,1,,,,,
+Function,"strip_empty_bbcode",,,,,,,,,,,,39,,,39,4,,,4,31,,31,4,,,4,72,,1,,1,18,,18,9,9,10,5,,,3,,,,,
+Function,"strip_search_index",,,,,,,,,,,,41,,,41,8,,,8,33,,33,0,,,0,15,,2,,2,16,,16,11,8,11,6,,,4,,,,,
+Function,"stripslashes_array",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Function,"stripslashes_array",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Function,"stripslashes_array",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,2,2,2,1,,,0,,,,,
+Function,"ucp_preg_replace",,,,,,,,,,,,20,,,20,3,,,3,16,,16,1,,,1,4,,1,,1,8,,8,4,4,4,1,,,3,,,,,
+Function,"unselect_checkboxes",,,,,,,,,,,,15,,15,,2,,2,,13,13,,0,,0,,3,,3,3,,6,6,,3,3,4,1,,,2,,,,,
+Function,"update_forum",,,,,,,,,,,,19,,,19,4,,,4,15,,15,3,,,3,2,,2,,2,8,,8,2,2,2,1,,,1,,,,,
+Function,"update_search_index",,,,,,,,,,,,109,,,109,23,,,23,80,,80,6,,,6,612,,2,,2,52,,52,21,18,21,8,,,4,,,,,
+Function,"update_users_online",,,,,,,,,,,,26,,,26,2,,,2,21,,21,3,,,3,5,,2,,2,10,,10,5,5,5,1,,,4,,,,,
+Function,"url_valid",,,,,,,,,,,,82,,,82,0,,,0,81,,81,5,,,5,132,,1,,1,19,,19,12,9,12,10,,,2,,,,,
+Function,"utf8_accents_to_ascii",,,,,,,,,,,,60,,,60,6,,,6,54,,54,0,,,0,9,,3,,3,9,,9,5,5,5,1,,,2,,,,,
+Function,"utf8_bad_explain",,,,,,,,,,,,37,,,37,8,,,8,29,,29,0,,,0,8,,1,,1,17,,17,7,2,7,1,,,1,,,,,
+Function,"utf8_bad_find",,,,,,,,,,,,28,,,28,4,,,4,24,,24,9,,,9,3,,1,,1,10,,10,3,3,3,3,,,2,,,,,
+Function,"utf8_bad_findall",,,,,,,,,,,,31,,,31,5,,,5,26,,26,9,,,9,6,,1,,1,12,,12,4,4,4,1,,,2,,,,,
+Function,"utf8_bad_identify",,,,,,,,,,,,122,,,122,8,,,8,87,,87,32,,,32,21,,1,,1,51,,51,15,15,20,15,,,8,,,,,
+Function,"utf8_bad_replace",,,,,,,,,,,,49,,,49,8,,,8,38,,38,11,,,11,49,,1,,1,35,,35,12,12,13,12,,,8,,,,,
+Function,"utf8_bad_strip",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_byte_position",,,,,,,,,,,,80,,,80,15,,,15,57,,57,17,,,17,83,,1,,1,38,,38,12,12,14,7,,,4,,,,,
+Function,"utf8_callback_1",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_callback_2",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_compliant",,,,,,,,,,,,11,,,11,1,,,1,6,,6,4,,,4,2,,1,,1,3,,3,2,2,2,1,,,1,,,,,
+Function,"utf8_from_unicode",,,,,,,,,,,,53,,,53,5,,,5,45,,45,9,,,9,8,,1,,1,25,,25,8,8,10,8,,,7,,,,,
+Function,"utf8_ireplace",,,,,,,,,,,,49,,,49,7,,,7,42,,42,0,,,0,8,,1,,1,26,,26,8,8,8,5,,,4,,,,,
+Function,"utf8_is_ascii",,,,,,,,,,,,5,,,5,0,,,0,4,,4,1,,,1,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_is_ascii_ctrl",,,,,,,,,,,,8,,,8,1,,,1,6,,6,1,,,1,2,,1,,1,3,,3,2,2,2,1,,,1,,,,,
+Function,"utf8_is_valid",,,,,,,,,,,,124,,,124,7,,,7,85,,85,36,,,36,12,,1,,1,48,,48,12,12,20,12,,,8,,,,,
+Function,"utf8_is_word_chars",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_locate_current_chr",,,,,,,,,,,,17,,,17,3,,,3,11,,11,3,,,3,4,,1,,1,8,,8,4,4,5,3,,,1,,,,,
+Function,"utf8_locate_next_chr",,,,,,,,,,,,17,,,17,3,,,3,11,,11,3,,,3,4,,1,,1,8,,8,4,4,5,3,,,1,,,,,
+Function,"utf8_ltrim",,,,,,,,,,,,10,,,10,2,,,2,7,,7,1,,,1,2,,1,,1,4,,4,2,2,2,1,,,1,,,,,
+Function,"utf8_ord",,,,,,,,,,,,62,,,62,12,,,12,50,,50,0,,,0,13,,1,,1,35,,35,13,13,20,13,,,1,,,,,
+Function,"utf8_rtrim",,,,,,,,,,,,10,,,10,2,,,2,7,,7,1,,,1,2,,1,,1,4,,4,2,2,2,1,,,1,,,,,
+Function,"utf8_specials_pattern",,,,,,,,,,,,64,,,64,3,,,3,61,,61,0,,,0,2,,2,,2,5,,5,2,2,2,1,,,1,,,,,
+Function,"utf8_str_pad",,,,,,,,,,,,37,,,37,7,,,7,30,,30,0,,,0,5,,1,,1,21,,21,5,5,5,5,,,1,,,,,
+Function,"utf8_str_split",,,,,,,,,,,,13,,,13,3,,,3,10,,10,0,,,0,3,,1,,1,7,,7,3,3,4,3,,,1,,,,,
+Function,"utf8_strcasecmp",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,1,,1,,1,3,,3,1,1,1,1,,,0,,,,,
+Function,"utf8_strcspn",,,,,,,,,,,,17,,,17,5,,,5,12,,12,0,,,0,5,,1,,1,9,,9,4,4,6,3,,,1,,,,,
+Function,"utf8_strip_ascii_ctrl",,,,,,,,,,,,17,,,17,4,,,4,13,,13,0,,,0,3,,1,,1,8,,8,3,3,3,1,,,2,,,,,
+Function,"utf8_strip_non_ascii",,,,,,,,,,,,17,,,17,4,,,4,13,,13,0,,,0,3,,1,,1,8,,8,3,3,3,1,,,2,,,,,
+Function,"utf8_strip_non_ascii_ctrl",,,,,,,,,,,,17,,,17,4,,,4,13,,13,0,,,0,3,,1,,1,8,,8,3,3,3,1,,,2,,,,,
+Function,"utf8_strip_specials",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_stristr",,,,,,,,,,,,14,,,14,3,,,3,11,,11,0,,,0,3,,1,,1,8,,8,3,3,3,3,,,1,,,,,
+Function,"utf8_strlen",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_strlen",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_strpos",,,,,,,,,,,,27,,,27,5,,,5,22,,22,0,,,0,5,,1,,1,12,,12,5,5,5,5,,,2,,,,,
+Function,"utf8_strpos",,,,,,,,,,,,10,,,10,1,,,1,8,,8,1,,,1,2,,1,,1,4,,4,2,2,2,1,,,1,,,,,
+Function,"utf8_strrev",,,,,,,,,,,,5,,,5,0,,,0,5,,5,0,,,0,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Function,"utf8_strrpos",,,,,,,,,,,,33,,,33,6,,,6,26,,26,1,,,1,5,,1,,1,14,,14,5,5,5,5,,,2,,,,,
+Function,"utf8_strrpos",,,,,,,,,,,,29,,,29,5,,,5,22,,22,2,,,2,5,,1,,1,12,,12,5,5,5,5,,,2,,,,,
+Function,"utf8_strspn",,,,,,,,,,,,14,,,14,4,,,4,10,,10,0,,,0,4,,1,,1,7,,7,3,3,4,1,,,1,,,,,
+Function,"utf8_strtolower",,,,,,,,,,,,65,,,65,6,,,6,59,,59,0,,,0,8,,2,,2,10,,10,5,5,5,1,,,2,,,,,
+Function,"utf8_strtolower",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_strtoupper",,,,,,,,,,,,65,,,65,6,,,6,59,,59,0,,,0,8,,2,,2,10,,10,5,5,5,1,,,2,,,,,
+Function,"utf8_strtoupper",,,,,,,,,,,,4,,,4,0,,,0,4,,4,0,,,0,1,,1,,1,1,,1,1,1,1,1,,,0,,,,,
+Function,"utf8_substr",,,,,,,,,,,,97,,,97,20,,,20,62,,62,15,,,15,472,,1,,1,46,,46,17,17,19,9,,,4,,,,,
+Function,"utf8_substr",,,,,,,,,,,,7,,,7,0,,,0,7,,7,0,,,0,2,,1,,1,3,,3,2,2,2,1,,,1,,,,,
+Function,"utf8_substr_replace",,,,,,,,,,,,12,,,12,3,,,3,9,,9,0,,,0,2,,1,,1,6,,6,2,2,2,1,,,1,,,,,
+Function,"utf8_to_unicode",,,,,,,,,,,,132,,,132,8,,,8,92,,92,35,,,35,13,,1,,1,55,,55,13,13,21,12,,,8,,,,,
+Function,"utf8_trim",,,,,,,,,,,,7,,,7,1,,,1,6,,6,0,,,0,2,,1,,1,3,,3,2,2,2,1,,,1,,,,,
+Function,"utf8_ucfirst",,,,,,,,,,,,16,,,16,0,,,0,16,,16,0,,,0,4,,1,,1,8,,8,3,2,3,1,,,1,,,,,
+Function,"utf8_ucwords",,,,,,,,,,,,9,,,9,1,,,1,5,,5,3,,,3,1,,1,,1,2,,2,1,1,1,1,,,0,,,,,
+Function,"utf8_ucwords_callback",,,,,,,,,,,,8,,,8,1,,,1,7,,7,0,,,0,1,,1,,1,4,,4,1,1,1,1,,,0,,,,,
+Function,"validate_search_word",,,,,,,,,,,,38,,,38,8,,,8,25,,25,5,,,5,22,,2,,2,17,,17,8,8,9,4,,,3,,,,,
